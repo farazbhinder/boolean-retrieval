@@ -12,7 +12,7 @@ For e.g. you can specify queries following the format given below:
 The dataset I am using is following
 http://www.cs.cmu.edu/afs/cs/project/theo-20/www/data/news20.tar.gz
 
-Format to run the program
+### How to run the program?
 
 open cmd
 
